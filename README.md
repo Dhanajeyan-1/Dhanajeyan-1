@@ -1,5 +1,7 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B0000&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=50&lines=YEET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B0000&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=50&lines=DHANAJEYAN+GANESAN" alt="Typing SVG" />
+  <br>
+  <img src="https://github.com/yourusername.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture">
 </div>  
 
 ## ⚡ About Me  

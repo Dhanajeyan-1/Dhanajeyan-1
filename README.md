@@ -3,15 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=50&lines=DHANAJEYAN+GANESAN" alt="Typing SVG" />
   </a>
   <br>
-  <img src="https://github.com/DhanajeyanGanesan.png" width="120" height="120" style="border-radius: 50%; border: 3px solid gold; animation: glow 2s infinite alternate;" alt="Profile Picture">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=DhanajeyanGanesan&label=Profile%20Views&color=gold&style=flat" alt="Profile Views">
 </div>  
 
 <style>
 @keyframes glow {
-  from { box-shadow: 0 0 10px gold; }
-  to { box-shadow: 0 0 20px black; }
+  from { text-shadow: 0 0 10px gold; }
+  to { text-shadow: 0 0 20px black; }
 }
 </style>
 

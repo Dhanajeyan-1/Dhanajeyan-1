@@ -32,8 +32,7 @@ I am **DJ**, crafting solutions through **code and innovation**. The digital wor
 </div>
 
 ## 🎶 Music Vibes  
-![Spotify Now Playing](https://spotify-now-playing-eight.vercel.app/api/spotify-playing)
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&bar_color=FFD700&bar_color_cover=false)
 
 ## 🔥 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanajeyan-ganesan-641a54265/)
-

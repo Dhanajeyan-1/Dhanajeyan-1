@@ -19,13 +19,6 @@ I am **DJ**, crafting solutions through **code and innovation**. The digital wor
 ! Frontend: Bootstrap
 ```
 
-### 🎬 Featured GitHub Repositories  
-<div align="center">
-  <a href="https://github.com/Dhanajeyan-1?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanajeyan-1&repo=your-best-repo&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF4500" alt="Featured Repo" />
-  </a>
-</div>
-
 ### 🏆 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhanajeyan-1&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF4500" alt="GitHub Stats" />

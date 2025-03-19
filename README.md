@@ -6,29 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=DhanajeyanGanesan&label=Profile%20Views&color=FFD700&style=flat" alt="Profile Views">
 </div>  
 
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px gold; }
-  to { text-shadow: 0 0 20px black; }
-}
-body {
-  background-color: black;
-  color: gold;
-  font-family: 'Fira Code', monospace;
-}
-h1, h2, h3 {
-  text-shadow: 0 0 10px gold;
-}
-a {
-  color: gold;
-  transition: 0.3s;
-}
-a:hover {
-  color: black;
-  text-shadow: 0 0 15px gold;
-}
-</style>
-
 ## ⚡ About Me  
 🚀 **Passionate Developer | Innovator | Problem Solver**
 
@@ -66,3 +43,4 @@ I am **DJ**, crafting solutions through **code and innovation**. The digital wor
 
 ## 🔥 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanajeyan-ganesan-641a54265/)
+
